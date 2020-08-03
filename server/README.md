@@ -8,6 +8,9 @@
 ### Banco de dados 
 - sqlite3
 
+### Instalar as dependências
+- ```npm install``` ou ```yarn install```
+
 ### Criar arquivo do banco 
 - npx sequelize-cli db:migrate
 

@@ -2,6 +2,9 @@
 
 ## Instruções básicas
 
+### Instalar as dependências
+- ```npm install``` ou ```yarn install```
+
 ### Rodar projeto
 - ```npm start``` ou ```yarn start```
 
