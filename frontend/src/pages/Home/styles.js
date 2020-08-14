@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.section`
-  max-width: 1200px;
+  max-width: 1000px;
   width: 100%;
   margin: 0 auto;
   padding: 0 10px;
@@ -63,7 +63,7 @@ export const Container = styled.section`
   }
 
   .right {
-    max-width: 600px;
+    max-width: 450px;
     width: 100%;
 
     img {
